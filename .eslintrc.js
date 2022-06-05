@@ -104,8 +104,8 @@ module.exports = {
     },
     {
       files: [
-        'packages/prototype-b/**/*.ts?(x)',
-        'packages/prototype-b/**/*.js?(x)',
+        'packages/study-books/**/*.ts?(x)',
+        'packages/study-books/**/*.js?(x)',
       ],
       settings: {
         'import/resolver': {
